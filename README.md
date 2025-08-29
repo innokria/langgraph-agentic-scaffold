@@ -6,6 +6,11 @@
 
 A foundational scaffold for building robust, modular, and scalable multi-agent systems using LangGraph. This project provides a production-ready architecture that moves beyond simple scripts to a fully-fledged, API-driven application. It is designed to be the best possible starting point for any LangGraph-based agentic system.
 
+## UI  ( WIP) ##
+<img width="841" height="877" alt="image" src="https://github.com/user-attachments/assets/4c7b38f7-944b-411c-be81-c48ba153e05c" />
+
+
+
 ### An Open Core Project
 
 `langgraph-agentic-scaffold` is an **Open Core** project, distributed under the permissive MIT license. We are committed to developing and maintaining this core as a powerful, free, and open-source foundation for the entire community. 
